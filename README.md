@@ -25,3 +25,6 @@ Included:
 - Retrofit Library
 - HTML (for Web Admin Panel)
 
+## Get All APIs
+- [[APIs]]("https://github.com/rahulrkms/APIs")
+
