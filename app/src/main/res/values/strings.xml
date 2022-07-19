@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">QuickyJob</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="choose_security_question">Choose Security Question</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="your_answer">Your Answer</string>
+    <string name="save_answer">save Answer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <!-- Strings used for fragments for navigation -->
+
+    <string-array name="security">
+
+        <item> In what city were you born?</item>
+        <item> What is the name of your favorite pet?</item>
+        <item> What is the name of your first school?</item>
+        <item> What was the make of your first car?</item>
+        <item>What was your favorite food as a child?</item>
+        <item> Where did you meet your spouse?</item>
+    </string-array>
+
+</resources>

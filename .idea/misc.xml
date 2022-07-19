@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Mr_Rahul/AndroidStudioProjects/QuickyJob/app/src/main/res/2/drawable/ic_baseline_exit_to_app_24.xml" value="0.2395" />
+        <entry key="..\:/Users/Mr_Rahul/AndroidStudioProjects/QuickyJob/app/src/main/res/2/drawable/ic_baseline_home_24.xml" value="0.121" />
+        <entry key="..\:/Users/Mr_Rahul/AndroidStudioProjects/QuickyJob/app/src/main/res/2/drawable/ic_baseline_person_24.xml" value="0.223" />
+        <entry key="..\:/Users/Mr_Rahul/AndroidStudioProjects/QuickyJob/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1795" />
+        <entry key="..\:/Users/Mr_Rahul/AndroidStudioProjects/QuickyJob/app/src/main/res/drawable/border.xml" value="0.2395" />
+        <entry key="..\:/Users/Mr_Rahul/AndroidStudioProjects/QuickyJob/app/src/main/res/drawable/button.xml" value="0.208" />
+        <entry key="..\:/Users/Mr_Rahul/AndroidStudioProjects/QuickyJob/app/src/main/res/drawable/changepassedittext.xml" value="0.192" />
+        <entry key="..\:/Users/Mr_Rahul/AndroidStudioProjects/QuickyJob/app/src/main/res/drawable/custome_style.xml" value="0.2495" />
+        <entry key="..\:/Users/Mr_Rahul/AndroidStudioProjects/QuickyJob/app/src/main/res/drawable/del.xml" value="0.121" />
+        <entry key="..\:/Users/Mr_Rahul/AndroidStudioProjects/QuickyJob/app/src/main/res/drawable/forget.xml" value="0.208" />
+        <entry key="..\:/Users/Mr_Rahul/AndroidStudioProjects/QuickyJob/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.1465" />
+        <entry key="..\:/Users/Mr_Rahul/AndroidStudioProjects/QuickyJob/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.2395" />
+        <entry key="..\:/Users/Mr_Rahul/AndroidStudioProjects/QuickyJob/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.2395" />
+        <entry key="..\:/Users/Mr_Rahul/AndroidStudioProjects/QuickyJob/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.245" />
+        <entry key="..\:/Users/Mr_Rahul/AndroidStudioProjects/QuickyJob/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.2395" />
+        <entry key="..\:/Users/Mr_Rahul/AndroidStudioProjects/QuickyJob/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1795" />
+        <entry key="..\:/Users/Mr_Rahul/AndroidStudioProjects/QuickyJob/app/src/main/res/drawable/imagecorner.xml" value="0.2495" />
+        <entry key="..\:/Users/Mr_Rahul/AndroidStudioProjects/QuickyJob/app/src/main/res/drawable/layout_radious.xml" value="0.192" />
+        <entry key="..\:/Users/Mr_Rahul/AndroidStudioProjects/QuickyJob/app/src/main/res/drawable/recviewradius.xml" value="0.2555" />
+        <entry key="..\:/Users/Mr_Rahul/AndroidStudioProjects/QuickyJob/app/src/main/res/drawable/register_corner.xml" value="0.223" />
+        <entry key="..\:/Users/Mr_Rahul/AndroidStudioProjects/QuickyJob/app/src/main/res/drawable/ripple_effact.xml" value="0.223" />
+        <entry key="..\:/Users/Mr_Rahul/AndroidStudioProjects/QuickyJob/app/src/main/res/drawable/singlerowgridcornor.xml" value="0.234" />
+        <entry key="..\:/Users/Mr_Rahul/AndroidStudioProjects/QuickyJob/app/src/main/res/drawable/whiteradiuslowcorner.xml" value="0.223" />
+        <entry key="..\:/Users/Mr_Rahul/AndroidStudioProjects/QuickyJob/app/src/main/res/font/.xml" value="0.18175675675675676" />
+        <entry key="..\:/Users/Mr_Rahul/AndroidStudioProjects/QuickyJob/app/src/main/res/font/archivo_black.xml" value="0.18175675675675676" />
+        <entry key="..\:/Users/Mr_Rahul/AndroidStudioProjects/QuickyJob/app/src/main/res/layout/activity_category_bottom.xml" value="0.176" />
+        <entry key="..\:/Users/Mr_Rahul/AndroidStudioProjects/QuickyJob/app/src/main/res/layout/activity_category_click_listner.xml" value="0.25" />
+        <entry key="..\:/Users/Mr_Rahul/AndroidStudioProjects/QuickyJob/app/src/main/res/layout/activity_change_password.xml" value="0.264" />
+        <entry key="..\:/Users/Mr_Rahul/AndroidStudioProjects/QuickyJob/app/src/main/res/layout/activity_dashboard.xml" value="0.16799999999999998" />
+        <entry key="..\:/Users/Mr_Rahul/AndroidStudioProjects/QuickyJob/app/src/main/res/layout/activity_forget_password.xml" value="0.16216216216216217" />
+        <entry key="..\:/Users/Mr_Rahul/AndroidStudioProjects/QuickyJob/app/src/main/res/layout/activity_logout.xml" value="0.19610507246376813" />
+        <entry key="..\:/Users/Mr_Rahul/AndroidStudioProjects/QuickyJob/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Mr_Rahul/AndroidStudioProjects/QuickyJob/app/src/main/res/layout/activity_myprofile.xml" value="0.2" />
+        <entry key="..\:/Users/Mr_Rahul/AndroidStudioProjects/QuickyJob/app/src/main/res/layout/activity_password_change.xml" value="0.25" />
+        <entry key="..\:/Users/Mr_Rahul/AndroidStudioProjects/QuickyJob/app/src/main/res/layout/activity_register.xml" value="0.2" />
+        <entry key="..\:/Users/Mr_Rahul/AndroidStudioProjects/QuickyJob/app/src/main/res/layout/activity_reset_forget_paasword.xml" value="0.16216216216216217" />
+        <entry key="..\:/Users/Mr_Rahul/AndroidStudioProjects/QuickyJob/app/src/main/res/layout/activity_security_question.xml" value="0.264" />
+        <entry key="..\:/Users/Mr_Rahul/AndroidStudioProjects/QuickyJob/app/src/main/res/layout/activity_settings.xml" value="0.2" />
+        <entry key="..\:/Users/Mr_Rahul/AndroidStudioProjects/QuickyJob/app/src/main/res/layout/custom_image.xml" value="0.16148648648648647" />
+        <entry key="..\:/Users/Mr_Rahul/AndroidStudioProjects/QuickyJob/app/src/main/res/layout/fragment_first.xml" value="0.25" />
+        <entry key="..\:/Users/Mr_Rahul/AndroidStudioProjects/QuickyJob/app/src/main/res/layout/fragment_logoutfragmnet.xml" value="0.25" />
+        <entry key="..\:/Users/Mr_Rahul/AndroidStudioProjects/QuickyJob/app/src/main/res/layout/fragment_myprofile.xml" value="0.2359375" />
+        <entry key="..\:/Users/Mr_Rahul/AndroidStudioProjects/QuickyJob/app/src/main/res/layout/fragment_search.xml" value="0.25" />
+        <entry key="..\:/Users/Mr_Rahul/AndroidStudioProjects/QuickyJob/app/src/main/res/layout/fragment_setting.xml" value="0.2359375" />
+        <entry key="..\:/Users/Mr_Rahul/AndroidStudioProjects/QuickyJob/app/src/main/res/layout/navheader.xml" value="0.136" />
+        <entry key="..\:/Users/Mr_Rahul/AndroidStudioProjects/QuickyJob/app/src/main/res/layout/singlerowbottomcategory.xml" value="0.2" />
+        <entry key="..\:/Users/Mr_Rahul/AndroidStudioProjects/QuickyJob/app/src/main/res/layout/singlerowcatclick.xml" value="0.2" />
+        <entry key="..\:/Users/Mr_Rahul/AndroidStudioProjects/QuickyJob/app/src/main/res/layout/singlerowdesign.xml" value="0.264" />
+        <entry key="..\:/Users/Mr_Rahul/AndroidStudioProjects/QuickyJob/app/src/main/res/menu/bottom_navigation.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/Mr_Rahul/AndroidStudioProjects/QuickyJob/app/src/main/res/menu/navigation_menu.xml" value="0.25" />
+        <entry key="..\:/Users/Mr_Rahul/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/simple_dropdown_item_1line.xml" value="0.16216216216216217" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
