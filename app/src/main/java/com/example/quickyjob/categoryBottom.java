@@ -31,7 +31,7 @@ public class categoryBottom extends AppCompatActivity {
         setContentView(R.layout.activity_category_bottom);
         //getSupportActionBar().hide();
 
-        imageSlider_cat();
+       // imageSlider_cat();
 
         category_bottom_recview = findViewById(R.id.category_bottom_recview);
         category_bottom_recview.setLayoutManager(new LinearLayoutManager(this));
@@ -39,16 +39,16 @@ public class categoryBottom extends AppCompatActivity {
         fetchingdata();
     }
 
-    private void imageSlider_cat() {
-        ImageSlider imageSlider = findViewById(R.id.slider_cat_botton);
-        List<SlideModel> slideModel = new ArrayList<>();
-
-        slideModel.add(new SlideModel(R.drawable.slide_three, ScaleTypes.FIT));
-        slideModel.add(new SlideModel("https://picsum.photos/id/237/200/300\n", ScaleTypes.FIT));
-        slideModel.add(new SlideModel("https://picsum.photos/seed/picsum/200/300\n", ScaleTypes.FIT));
-
-        imageSlider.setImageList(slideModel,ScaleTypes.FIT);
-    }
+//    private void imageSlider_cat() {
+//        ImageSlider imageSlider = findViewById(R.id.slider_cat_botton);
+//        List<SlideModel> slideModel = new ArrayList<>();
+//
+//        slideModel.add(new SlideModel(R.drawable.slide_three, ScaleTypes.FIT));
+//        slideModel.add(new SlideModel("https://picsum.photos/id/237/200/300\n", ScaleTypes.FIT));
+//        slideModel.add(new SlideModel("https://picsum.photos/seed/picsum/200/300\n", ScaleTypes.FIT));
+//
+//        imageSlider.setImageList(slideModel,ScaleTypes.FIT);
+//    }
 
     public void fetchingdata(){
         Call<List<fetchcategorydata_response_model>> callCategory = apicontroller.getInstance().getapi().getFetchCategoryData();

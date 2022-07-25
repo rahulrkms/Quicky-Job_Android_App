@@ -10,7 +10,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 public class apicontroller {
 
 
-    final static String url = "http://192.168.1.5/quickyapi/";
+    final static String url = "https://examqstn.000webhostapp.com/quickyjob/";
     //192.168.1.45
     public static apicontroller clientoject;
     public static Retrofit retrofit;

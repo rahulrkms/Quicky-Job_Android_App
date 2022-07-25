@@ -12,11 +12,12 @@
     <color name="logout">#20E4D0</color>
     <color name="catColor">#ED594E</color>
     <color name="yellow">#FAAB3B</color>
-    <color name="setting_dash">#3C381E</color>
+
     <color name="catgridcolor">#053530</color>
     <color name="resetbtn">#E8505B</color>
     <color name="gridbg">#3C8E85</color>
     <color name="logcol">#0386D0</color>
+    <color name="setting_dash">#3C381E</color>
     <color name="homecolor">#1C185C</color>
 
 
